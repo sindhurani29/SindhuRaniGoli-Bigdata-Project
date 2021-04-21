@@ -1,6 +1,6 @@
 # SindhuRaniGoli-Bigdata-Project
 ## Author: 
-Sindhu Rani Goli
+[Sindhu Rani Goli](https://github.com/sindhurani29)
 ## Text Data Source: 
 - I have taken the text data from the website:
  https://www.gutenberg.org/

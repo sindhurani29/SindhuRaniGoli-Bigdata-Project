@@ -2,10 +2,10 @@
 ## Author: 
 Sindhu Rani Goli
 ## Text Data Source: 
-I have taken the text data from the website:
-https://www.gutenberg.org/
-I have taken the text data from the URL:
-https://www.gutenberg.org/files/65122/65122-0.txt
+- I have taken the text data from the website:
+ https://www.gutenberg.org/
+- I have taken the text data from the URL:
+ https://www.gutenberg.org/files/65122/65122-0.txt
 ## Tools and Languages used:
 ### Language: 
 - Python
@@ -90,6 +90,8 @@ plt.figure(figsize=(8,4))
 sns.barplot(xlabel, ylabel, data=df, palette="Blues_d").set_title(title)
 ```
 ## Charting Results
+! [https://github.com/sindhurani29/sindhuranigoli-bigdata-finalproject/blob/main/final1.PNG]
+! [https://github.com/sindhurani29/sindhuranigoli-bigdata-finalproject/blob/main/final2.PNG]
 ## References:
 - [PySpark](https://github.com/denisecase/starting-spark)
 - [Databricks](https://docs.databricks.com/)

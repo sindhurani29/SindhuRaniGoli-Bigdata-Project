@@ -95,6 +95,9 @@ sns.barplot(xlabel, ylabel, data=df, palette="Blues_d").set_title(title)
 
 - Bar Chart showing results
 ![charted results](https://github.com/sindhurani29/sindhuranigoli-bigdata-finalproject/blob/main/final2.PNG)
+
+## Link to my project file:
+[bigdata final project file](https://github.com/sindhurani29/sindhuranigoli-bigdata-finalproject/blob/main/sindhuranigoli-finalproject.py) 
 ## References:
 - [PySpark](https://github.com/denisecase/starting-spark)
 - [Databricks](https://docs.databricks.com/)
